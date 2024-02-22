@@ -13,7 +13,7 @@ function Todoform(props) {
         <input 
         type="text" 
         className='form-todo'
-        placeholder="Enter your to do"
+        placeholder="タスクを入力してください"
         value={inputText}
         onChange={e=>{
             setInputText(e.target.value)
