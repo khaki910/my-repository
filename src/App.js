@@ -26,11 +26,7 @@ function App() {
           )
         })}
       </div>
-      <header className="App-header">
-        <p>
-          Amplifyの動作確認
-        </p>
-      </header>
+      
     </div>
   )
 }
